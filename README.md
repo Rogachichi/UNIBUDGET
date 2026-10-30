@@ -1,6 +1,6 @@
 # UNIBUDGET – Student Budget Management System 🎓💰
 
-🔗 **GitHub Repository:** [YourUsername/UNIBUDGET](https://github.com/YourUsername/UNIBUDGET)
+🔗 **GitHub Repository:** https://github.com/Rogachichi/UNIBUDGET.git
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
